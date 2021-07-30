@@ -1,3 +1,12 @@
+/***************************************************************
+ * July 26th, 2021                             M. Adil Umer    *
+ *                                                             *
+ * Localization snippet                                        *
+ * Fed up of localization libraries and compatibility issues.  *
+ * For most cases this would be more than enough.              *
+ *                                                             *
+****************************************************************/
+
 var sysLang = GLOBAL_DEFAULT_LANG;
 var languages = {
   en: {
